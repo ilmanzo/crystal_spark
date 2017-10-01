@@ -9,7 +9,7 @@ This is a Crystal port of the python [spark](https://github.com/kennethreitz/spa
 
 ## usage
 
-Just give the `Spark.string` function a list of numbers.
+Just pass to the `Spark.string` function an array of numbers.
 
     Spark.string([0,30,55,80,33,150])
     ▁▂▃▅▂▇
