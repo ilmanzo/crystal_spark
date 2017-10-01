@@ -14,7 +14,10 @@ Just pass to the `Spark.string` function an array of numbers.
     Spark.string([0,30,55,80,33,150])
     ▁▂▃▅▂▇
 
+the function accept a second parameter for normalize data and fit min:
 
+    Spark.string([0, 30, 55, 80, 33, 150], true)
+     ▁▂▄▁█
 ## ▇▁ ⟦⟧ ▇▁
 
 
